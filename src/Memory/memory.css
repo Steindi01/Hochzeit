@@ -1,0 +1,51 @@
+body {
+  background: #f0f0f0;
+  font: 14px/18px Helvetica, Arial;
+  margin: 20px;
+}
+
+#field {
+  position: relative;
+}
+
+.card {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 140px;
+  height: 140px;
+}
+
+.card img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 140px;
+  height: 140px;
+}
+
+#score, #tries {
+  position: absolute;
+  left: -150px;
+  top: 40px;
+  font-size: 100px;
+  line-height: 100px;
+  color: #aaa;
+  width: 100px;
+  text-align: right;
+}
+
+#tries {
+  font-size: 20px;
+  top: 100px;
+  left: -160px;
+}
+
+a {
+  color: #888;
+}
+
+#controls {
+  position: absolute;
+  top: 200px;
+}

@@ -1,0 +1,12 @@
+Two games for a wedding.
+
+Picture files for the memory have to be in teh same directory of the index.html.
+All pictures have to be in the *.jpg format and have to adhere the following naming rules:
+- One pair consists of two single *.jpg files
+- The first picture of a pair is always an odd number between 1 and 19.
+- The picture which belongs to the the first picture is the next even number, so it has to be between 2 and 20.
+
+Example:
+- Pair 1: 1.jpg and 2.jpg
+- Pair 2: 3.jpg and 3.jpg
+... and so on
